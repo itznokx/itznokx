@@ -20,4 +20,10 @@
 - Interest in Computer Graphics :desktop_computer: and Cybersecurity :closed_lock_with_key:
 
 ### ⭐ Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itznokx&show_icons=true)
+
+<div>
+  
+<img height="150em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=itznokx&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=itznokx&,html&layout=compact&langs_count=7&theme=radical"/>
+
+</div>
